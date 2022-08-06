@@ -1,0 +1,50 @@
+Arthur, 2005, 56    Yigit: D D D D D A D D D D D D D D A D D D D D D D D D D D D D D D D D D D D D D D A D Y D D O
+Nola, 2003, 62    Yigit: D D D D O
+Sydney, 2002, 72    Yigit: D D D D D A D D D D D D D D D D D D D D D D D D D D A D D D D D D D D D D D D D O
+Carmelo, 2004, 74    Yigit: D D D D D A D D D D D D D D A D D D D D D D D D D D D D D D D D D D D D D D O
+Rachel, 2000, 66    Yigit: D D D D D A D D O
+Hailie, 1999, 93    Yigit: D D D D D A D D A D D D D D Y D D D D D D D D D D D D D D D D O
+Dominik, 2000, 83    Yigit: D D D D D A D D Y D D D D D O
+Briana, 2001, 85    Yigit: D D D D D A D D D D D D D D Y D D D D D D D D D D D O
+Fernanda, 1987, 77    Yigit: D D D D D Y D D D D D D D D D D D D D A D D D D D D D D D A D D D D D O
+Hassan, 1985, 60    Yigit: D D O
+Kole, 1984, 70    Yigit: D D A D D Y D D D D D D D D D D D D D D O
+Linda, 1984, 63    Yigit: D D Y D D O
+Jadyn, 1986, 88    Yigit: D D D D D Y D D D D D D D D D D D D D O
+Elaine, 1988, 55    Yigit: D D D D D A D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D Y D D D O
+Zoey, 1983, 69    Yigit: D D D D D Y D D D D D O
+Cristina, 1983, 82    Yigit: D D D D D Y D D D D D Y D D D D D D D D D D O
+Michaela, 1982, 90    Yigit: D D D D D D D D D D D Y D D D D D D D D D D A D D D D D O
+Alfred, 1981, 75    Yigit: D D D D D D D D D D D A D D D D D D A D D D D D D D D D A D D D D D D Y D O
+Madalyn, 1980, 57    Yigit: D D D D D D D D D D D A D D D D D D D D D D D D D D D D A D D D D D D A D D D D Y D O
+Javon, 1980, 87    Yigit: D D D D D D D D D D D A D D D D D D O
+Paris, 1981, 92    Yigit: D D D D D D D D D D D A D D D D D D D D D D D D D D D D Y D O
+Patrick, 1982, 84    Yigit: D D D D D D D D D D D Y D D D D D D D D D D Y D O
+Kai, 1984, 91    Yigit: D D D D D Y D D D D D D D D D D D D D D D D D D D D D D D O
+Mina, 1978, 59    Yigit: D O
+Nathalie, 1976, 65    Yigit: D A D D D D D O
+Stella, 1977, 61    Yigit: D Y D O
+Juliana, 1975, 71    Yigit: D D D D D D D A D D A D Y D D D D D D D D A D D D D D D D D D D D D D D D D D D D O
+Andreas, 1975, 81    Yigit: D D D D D D D Y D D A D O
+Madelyn, 1973, 79    Yigit: D D D D D D D D D D A D D D D D D D D D D D D D D D D D D D D D D O
+Skye, 1971, 54    Yigit: D D D D D D D D D D A D A D D D D D D D D D D D D D D D D D D D D D D D D D D A D D D D D O
+Mckenzie, 1972, 73    Yigit: D D D D D D D D D D A D A D D D D D D D D D D D D D D D D D D D D D D D D D D O
+Terrell, 1974, 89    Yigit: D D D D D D D D D D A D Y D D D D D D D D O
+Emanuel, 1969, 64    Yigit: D D D D D D O
+Wilson, 1968, 82    Yigit: D D D D D D Y D D D D D D O
+Rory, 1966, 78    Yigit: D D D D D D D D D D D D D A D D A D D D D D D D D D D Y D D D D D D O
+Aydan, 1960, 80    Yigit: D D D D D D A D D D D D D D D D Y D D D D D D A D D D D D D D D O
+Savannah, 1965, 52    Yigit: D D D D D D A D D D D D D D D D A D D D D D D D D D D Y D D D D D D D D A D D D A D D D D D D O
+Lizeth, 1967, 89    Yigit: D D D D D D Y D D D D D D Y D D A D D D D D D D D D D O
+Rihanna, 1970, 50    Yigit: D D D D D D D D D D A D D D D D D D D D D D D D D D D D D D D D D D D D D D D D A D D D D D D D D O
+Myles, 1958, 86    Yigit: A D D D D D D D D D Y D D D D A Y O
+Christina, 1956, 84    Yigit: D D D D D D D D D A Y D D D D O
+Virginia, 1957, 85    Yigit: A D D D D D D D D D Y D D D D Y O
+Andres, 1954, 58    Yigit: O
+Tyrone, 1953, 68    Yigit: Y D D D D D D D D D O
+Jamarion, 1955, 67    Yigit: Y D D D D D D D D O
+Bradley, 1950, 53    Yigit: D D D D D D D D D D Y D D D D D D A D D D D D D D D D A D D D D D D D D D D D D A D D D D D O
+Journey, 1951, 76    Yigit: D D D D D D D D D D Y D D D D D D A D D D D D D D D D A D D D D D D D D O
+Martin, 1952, 83    Yigit: D D D D D D D D D D Y D D D D D D Y D D D D D O
+Elias, 1959, 88    Yigit: D D D D D D D D D D Y D D D D D Y D D D D D D Y D O
+Elliana, 1979, 50    Yigit: D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D Y D D D D D D D O
